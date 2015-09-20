@@ -57,6 +57,10 @@
 <layer number="99" name="SpiceOrder" color="5" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
+<description>&lt;h1&gt;LiquidCrystal595&lt;/h1&gt;
+&lt;p&gt;Connect 16x2 LCD to Arduino with only 3 pins&lt;/p&gt;
+&lt;p&gt;Author: Haipham&lt;/p&gt;
+&lt;p&gt;Date created: 20/09/2015&lt;/p&gt;</description>
 <libraries>
 <library name="Texas Instruments_By_element14_Batch_1">
 <description>Developed by element14 :&lt;br&gt;
