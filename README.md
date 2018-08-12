@@ -9,4 +9,4 @@ Copy LiquidCrystal595 folder to Arduino folder.<br />
 Include it in your Adruino sketch.
 
 # Project page
-http://haicuibap.ga/2013/12/ket-noi-lcd-voi-arduino-trong-6-giay/
+http://hpham.gq/2013/ket-noi-lcd-voi-arduino-trong-6-giay
