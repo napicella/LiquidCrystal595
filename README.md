@@ -8,5 +8,4 @@ https://bitbucket.org/rowansimms/arduino-lcd-3pin
 Copy LiquidCrystal595 folder to Arduino folder.<br />
 Include it in your Adruino sketch.
 
-# Project page
-http://hpham.gq/2013/ket-noi-lcd-voi-arduino-trong-6-giay
+
